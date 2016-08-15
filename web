@@ -1,0 +1,23 @@
+16.08.10
+	虚拟机安装系统(CentOS-7-x86_64-Minimal-1503-01.iso)
+	账户wzx		密码wezhon.com
+	账户wezhon	密码wezhon.com
+	账户root	密码wezhon.com
+	环境搭建
+		nginx，php，mysql
+	安装的是最小版本 ifconfig ping wget命令没有  yum用不了 ip addr可用 没有连上网络 下载wget安装提示需要先安装gcc。。。下载gcc中。。。。
+	gcc安装失败，从新安装完整版。
+	安装失败，挂机下载centos6.5完整版。
+	下班
+16.08.11
+	安装centos6.5完毕，开机进入图形界面。
+		账户root	密码wezhon.com
+		账户wezhon	密码wezhon0com
+	安装中文语言包支持，修改/etc/inittab 5为3,使其开机进入tty1
+	修改home目录为英文
+		export LANG=en_US
+		xdg-user-dirs-gtk-update
+		export LANG=zh_CN
+		** ~/.config/user-dirs.dis 可以自行修改
+	
+	
