@@ -1,0 +1,10 @@
+/etc/inittab
+	id:5:initdefault
+		0 - halt(Do NOT set initdefault to this) 停机，机器关闭
+		1 - Single user mode 单用户模式
+		2 - Multiuser,without NFS(The same as 3,if you do not have networking)多用户模式，没有nfs支持
+		3 - Full multiuser mode 完整的多用户模式，标准的运行级
+		4 - unused 一般不使用
+		5 - X11	图形模式
+		6 - reboot(Do NOT set initdefault to this) 重启
+startx启动级别5
