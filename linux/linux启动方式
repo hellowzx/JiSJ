@@ -1,0 +1,26 @@
+/etc/inittab
+	id:5:initdefault
+		0 - halt(Do NOT set initdefault to this) 停机，机器关闭
+		1 - Single user mode 单用户模式
+		2 - Multiuser,without NFS(The same as 3,if you do not have networking)多用户模式，没有nfs支持
+		3 - Full multiuser mode 完整的多用户模式，标准的运行级
+		4 - unused 一般不使用
+		5 - X11	图形模式
+		6 - reboot(Do NOT set initdefault to this) 重启
+startx启动级别5
+# inittab is no longer used.
+#
+# ADDING CONFIGURATION HERE WILL HAVE NO EFFECT ON YOUR SYSTEM.
+#
+# Ctrl-Alt-Delete is handled by /usr/lib/systemd/system/ctrl-alt-del.target
+#
+# systemd uses 'targets' instead of runlevels. By default, there are two main targets:
+#
+# multi-user.target: analogous to runlevel 3
+# graphical.target: analogous to runlevel 5
+#
+# To view current default target, run:
+# systemctl get-default
+#
+# To set a default target, run:
+# systemctl set-default TARGET.target
