@@ -1,0 +1,216 @@
+name			action				keybinding
+broadcast_all		broadcast key events to all	Alt+A
+broadcast_group		broadcast key presses to group	Alt+G
+broadcast_off		Don't broadcast key presses	Alt+O
+close_term		Close terminal			Shift+Ctrl+W
+close_window		close window			Shift+Ctrl+Q
+copy			Copy selected text		Shift+Ctrl+C
+Cycle_next		Focus the next terminal		Ctrl+Tab
+cycle_prev		Focus the previous terminal	Shift+Ctrl+Tab
+edit_window_title	Edit window title		Alt+T
+full_screen		toggle fullscreen		F11
+go_down			Focus the terminal below	Alt+下
+go_left			Focus the terminal left		Alt+左
+go_next			Focus the next terminal		Shift+Ctrl+N
+go_prev			Focus the previous terminal	Shift+Ctrl+P
+go_right		Focus the terminal right	Alt+右
+go_up			Focus the terminal above	Alt+上
+group_all		Group all terminals		Super+G
+
+
+
+快捷键
+
+下列快捷键可用于控制终端：
+
+超级+ R
+
+顺时针旋转端子。
+
+超级+移位+ R
+
+顺时针旋转终端。
+
+按Ctrl + Shift + O
+
+水平分裂终端。
+
+按Ctrl + Shift + E
+
+垂直拆分终端。
+
+按Ctrl + Shift +右
+
+移动母斜井矿车防坠杆右。
+
+按Ctrl + Shift +左
+
+母斜井矿车防坠杆左移。
+
+按Ctrl + Shift +向上
+
+移动母斜井矿车防坠杆上。
+
+按Ctrl + Shift +向下
+
+母斜井矿车防坠杆向下移动。
+
+按Ctrl + Shift + S
+
+隐藏/显示滚动条。
+
+按Ctrl + Shift + F
+
+在终端回溯搜索
+
+按Ctrl + Shift + N或Ctrl + Tab
+
+移动在同一标签下的终端，使用Ctrl +键来
+
+移动到下一个标签。如果cycle_term_tab是假的，周期内
+
+相同的标签将被禁用
+
+按Ctrl + Shift + P或Ctrl + Shift + Tab
+
+移动在同一选项卡上的终端，使用Ctrl + PageUp
+
+移动到前一个标签。如果cycle_term_tab是假的，周期
+
+在同一个标签将被禁用
+
+Alt +移动的终端上面的电流。
+
+Alt +向下
+
+移动到当前一个终端的下方。
+
+Alt +左
+
+移动到当前的左边的终端。
+
+Alt +右
+
+移动到当前的终端权。
+
+按Ctrl + Shift + C
+
+将选定的文本复制到剪贴板
+
+按Ctrl + Shift + V
+
+粘贴剪贴板中的文本
+
+按Ctrl + Shift + W
+
+关闭当前终端。
+
+按Ctrl + Shift + Q
+
+退出终结者
+
+按Ctrl + Shift + X
+
+显示所有终端之间只显示当前‐切换
+
+租一个（最大化）。
+
+按Ctrl + Shift + Z
+
+显示所有终端之间的切换，只显示一个缩放
+
+版本当前的一个（放大）。
+
+按Ctrl + Shift + T
+
+打开新标签
+
+Ctrl +键
+
+移动到下一个Tab
+
+Ctrl + PageUp
+
+移动到以前的标签
+
+按Ctrl + Shift +键
+
+与下一个Tab交换标签位置
+
+按Ctrl + Shift +向上翻页
+
+与前标签交换标签位置
+
+Ctrl + +（+）
+
+增加字体大小。注意：这可能需要你按移位，
+
+根据你的键盘
+
+Ctrl +减号（-）
+
+缩小字体大小。注意：这可能需要你按移位，
+
+根据你的键盘
+
+Ctrl +零（0）
+
+恢复字体大小到原始设置。
+
+F11切换全屏
+
+按Ctrl + Shift + R
+
+复位端的状态
+
+按Ctrl + Shift + G
+
+复位终端状态和清除窗口
+
+超级+ G
+
+组所有终端，使任何输入发送到其中一个，去
+
+对他们所有人。
+
+超级+移位+ G
+
+删除所有终端的分组。
+
+超级+ T
+
+组中的所有终端在当前标签，所以输入发送到一个
+
+他们，在当前标签中的所有终端。
+
+超+移位+ T
+
+从当前标签中的所有终端中删除分组。
+
+按Ctrl + Shift + I
+
+打开一个新窗口（注意：不同于以前的版本中，这场胜利‐
+
+道是同一个终止程序的一部分
+
+超级+我
+
+生成一个新的终止程序
+
+拖放
+
+布局可以通过移动终端进行修改，拖动和
+
+滴。要开始拖动一个终端，请单击并保持它的
+
+标题栏。另外，按住Ctrl键，单击并按住
+
+鼠标右键。然后，* * * *释放Ctrl。你现在可以拖动
+
+终端到布局中的点，你会喜欢它
+
+是。终端将被插入的区域将是
+
+突出。
+拼音 双语对照
+
