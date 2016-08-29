@@ -1,0 +1,22 @@
+hjkl 左下上右
+o	open	打开新网页
+t	tabopen	新标签页
+w	winopen	新窗口
+d	delete	关闭当前标签页
+u	undo	恢复
+:	同vim，进入命令模式
+:q	关闭当前的火狐窗口
+:qa	quit all
+:wq	退出保存
+命令有记忆功能
+gg		网页最上
+G		网页最下
+f		输入数字，打开链接
+;y23		拷贝23号链接
+;b23		后台打开
+H		后退	hjkl H
+L		前进	hjkl L
+gh		回到主页
+gH		新标签
+:set guioptions=mT	
+:help
