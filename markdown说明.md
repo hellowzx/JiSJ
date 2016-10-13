@@ -72,7 +72,7 @@ H2
 
 [id]:http://wezhon.com "1111"
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-![alt text](/path/img.jpg “图片”)
+![alt text](./img/img.jpg “图片”)
 
 <http://wezhon.com>
 等于
